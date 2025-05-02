@@ -1,4 +1,4 @@
-const apikey = "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"; // Substitua por sua chave da OpenAI
+const apikey = "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"; // Substitua por sua chave da OpenAI
 
 const memory = {};
 
